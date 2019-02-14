@@ -1,2 +1,2 @@
 # Linguistic-Style-Matching
-A script to calculate linguistic style matching in groups
+An R script to calculate linguistic style matching in groups
